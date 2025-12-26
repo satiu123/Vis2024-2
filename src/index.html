@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>就业招聘市场可视分析 - ChinaVis2024</title>
+  <link rel="stylesheet" href="css/main.css" />
+  <!-- D3 -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12"></script>
+  <!-- ECharts -->
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <div class="dot"></div>
+      <div>
+        <p class="kicker">ChinaVis2024</p>
+        <h1>就业招聘市场可视分析</h1>
+      </div>
+    </div>
+    <div class="filters" id="global-filters">
+      <select id="filter-city">
+        <option value="all">全部城市</option>
+      </select>
+      <select id="filter-industry">
+        <option value="all">全部行业</option>
+      </select>
+      <select id="filter-edu">
+        <option value="all">学历不限</option>
+        <option value="0">不限/中专</option>
+        <option value="1">大专</option>
+        <option value="2">本科</option>
+        <option value="3">硕士</option>
+        <option value="4">博士</option>
+      </select>
+      <select id="filter-exp">
+        <option value="all">经验不限</option>
+        <option value="0">应届/无经验</option>
+        <option value="1">1-3年</option>
+        <option value="2">3-5年</option>
+        <option value="3">5-10年</option>
+        <option value="4">10年以上</option>
+      </select>
+      <button id="btn-reset" class="ghost">重置</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <!-- 概览卡片 -->
+    <section class="cards" id="stat-cards">
+      <div class="card">
+        <p class="label">招聘通知</p>
+        <p class="value" id="stat-total">-</p>
+        <p class="hint">条记录</p>
+      </div>
+      <div class="card">
+        <p class="label">职位种类</p>
+        <p class="value" id="stat-jobs">-</p>
+        <p class="hint">唯一职位</p>
+      </div>
+      <div class="card">
+        <p class="label">企业数量</p>
+        <p class="value" id="stat-companies">-</p>
+        <p class="hint">家公司</p>
+      </div>
+      <div class="card">
+        <p class="label">平均薪资</p>
+        <p class="value" id="stat-salary">-</p>
+        <p class="hint">元/月</p>
+      </div>
+    </section>
+
+    <!-- 上层网格 -->
+    <section class="grid two-cols">
+      <div class="panel tall">
+        <div class="panel-head">
+          <h2>薪资分布与箱线</h2>
+          <span class="pill">ECharts</span>
+        </div>
+        <div id="chart-salary-box" class="chart"></div>
+      </div>
+      <div class="panel tall">
+        <div class="panel-head">
+          <h2>学历/经验 → 行业 → 薪资流向</h2>
+          <span class="pill">D3 Sankey</span>
+        </div>
+        <div id="chart-sankey" class="chart"></div>
+      </div>
+    </section>
+
+    <!-- 排名与构成 -->
+    <section class="grid three-cols">
+      <div class="panel">
+        <div class="panel-head">
+          <h2>TOP 城市</h2>
+          <span class="pill">ECharts</span>
+        </div>
+        <div id="chart-top-cities" class="chart"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">
+          <h2>TOP 行业</h2>
+          <span class="pill">ECharts</span>
+        </div>
+        <div id="chart-top-industries" class="chart"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">
+          <h2>学历 × 经验 气泡</h2>
+          <span class="pill">ECharts</span>
+        </div>
+        <div id="chart-edu-exp" class="chart"></div>
+      </div>
+    </section>
+
+    <!-- 中层网格 -->
+    <section class="grid two-cols">
+      <div class="panel tall">
+        <div class="panel-head">
+          <h2>行业-城市热力矩阵</h2>
+          <span class="pill">Canvas</span>
+        </div>
+        <div id="chart-heatmap" class="chart"></div>
+      </div>
+      <div class="panel tall">
+        <div class="panel-head">
+          <h2>职位/行业 TreeMap</h2>
+          <span class="pill">D3</span>
+        </div>
+        <div id="chart-treemap" class="chart"></div>
+      </div>
+    </section>
+
+    <!-- 底层网格 -->
+    <section class="grid two-cols">
+      <div class="panel tall">
+        <div class="panel-head">
+          <h2>城市气泡地图</h2>
+          <span class="pill">D3 Geo</span>
+        </div>
+        <div id="chart-map" class="chart"></div>
+      </div>
+      <div class="panel tall">
+        <div class="panel-head">
+          <h2>企业-行业关系网络</h2>
+          <span class="pill">D3 Force</span>
+        </div>
+        <div id="chart-network" class="chart"></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast">加载数据中...</div>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
