@@ -1,0 +1,13 @@
+{
+  "total_records": 429864,
+  "total_jobs": 169083,
+  "total_companies": 266978,
+  "total_cities": 371,
+  "total_industries": 158,
+  "salary_stats": {
+    "min": 1000.0,
+    "max": 100000.0,
+    "mean": 9453.717762010003,
+    "median": 7500.0
+  }
+}

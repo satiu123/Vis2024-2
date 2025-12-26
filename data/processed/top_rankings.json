@@ -1,0 +1,780 @@
+{
+  "top_cities": [
+    {
+      "name": "F047",
+      "count": 25718,
+      "avg_salary": 14241.348524322433
+    },
+    {
+      "name": "P949",
+      "count": 24630,
+      "avg_salary": 13001.039019042591
+    },
+    {
+      "name": "K115",
+      "count": 24520,
+      "avg_salary": 13893.606477138312
+    },
+    {
+      "name": "F379",
+      "count": 24482,
+      "avg_salary": 8775.545933581145
+    },
+    {
+      "name": "Y232",
+      "count": 24357,
+      "avg_salary": 10368.592601716138
+    },
+    {
+      "name": "B170",
+      "count": 23762,
+      "avg_salary": 11982.341231429653
+    },
+    {
+      "name": "Y633",
+      "count": 23744,
+      "avg_salary": 9808.699717787793
+    },
+    {
+      "name": "N806",
+      "count": 22929,
+      "avg_salary": 10351.441842208556
+    },
+    {
+      "name": "O198",
+      "count": 22920,
+      "avg_salary": 8360.499127399651
+    },
+    {
+      "name": "S959",
+      "count": 22305,
+      "avg_salary": 8919.820651930233
+    },
+    {
+      "name": "R892",
+      "count": 22200,
+      "avg_salary": 9010.657207207207
+    },
+    {
+      "name": "V932",
+      "count": 22162,
+      "avg_salary": 8249.376410071292
+    },
+    {
+      "name": "S542",
+      "count": 22126,
+      "avg_salary": 9647.14227605532
+    },
+    {
+      "name": "V449",
+      "count": 22046,
+      "avg_salary": 8614.258368865101
+    },
+    {
+      "name": "D022",
+      "count": 594,
+      "avg_salary": 5814.86531986532
+    },
+    {
+      "name": "K445",
+      "count": 593,
+      "avg_salary": 8088.158783783784
+    },
+    {
+      "name": "D090",
+      "count": 588,
+      "avg_salary": 6117.040816326531
+    },
+    {
+      "name": "A802",
+      "count": 527,
+      "avg_salary": 6012.314990512334
+    },
+    {
+      "name": "M935",
+      "count": 300,
+      "avg_salary": 5756.3
+    },
+    {
+      "name": "Y964",
+      "count": 300,
+      "avg_salary": 6789.7
+    }
+  ],
+  "top_companies": [
+    {
+      "name": "company_907432",
+      "count": 485,
+      "industry": "type_BLfSmG",
+      "avg_salary": 14254.474226804125
+    },
+    {
+      "name": "company_390847",
+      "count": 373,
+      "industry": "type_qrSFSq",
+      "avg_salary": 15445.174262734585
+    },
+    {
+      "name": "company_648838",
+      "count": 365,
+      "industry": "type_CbBLwi",
+      "avg_salary": 23165.369863013697
+    },
+    {
+      "name": "company_678433",
+      "count": 364,
+      "industry": "type_BLfSmG",
+      "avg_salary": 26983.653846153848
+    },
+    {
+      "name": "company_802784",
+      "count": 290,
+      "industry": "type_BLfSmG",
+      "avg_salary": 28523.96551724138
+    },
+    {
+      "name": "company_639598",
+      "count": 243,
+      "industry": "type_BLfSmG",
+      "avg_salary": 24930.0
+    },
+    {
+      "name": "company_239143",
+      "count": 221,
+      "industry": "type_plzlSo",
+      "avg_salary": 11491.59090909091
+    },
+    {
+      "name": "company_623498",
+      "count": 203,
+      "industry": "type_BLfSmG",
+      "avg_salary": 31474.48275862069
+    },
+    {
+      "name": "company_387215",
+      "count": 197,
+      "industry": "type_CbBLwi",
+      "avg_salary": 23183.502538071065
+    },
+    {
+      "name": "company_096263",
+      "count": 189,
+      "industry": "type_CbBLwi",
+      "avg_salary": 11620.74074074074
+    },
+    {
+      "name": "company_839733",
+      "count": 179,
+      "industry": "type_BLfSmG",
+      "avg_salary": 15240.22346368715
+    },
+    {
+      "name": "company_207326",
+      "count": 178,
+      "industry": "type_BLfSmG",
+      "avg_salary": 22593.876404494382
+    },
+    {
+      "name": "company_166885",
+      "count": 175,
+      "industry": "type_CbBLwi",
+      "avg_salary": 11651.6
+    },
+    {
+      "name": "company_425264",
+      "count": 168,
+      "industry": "type_BPRUkx",
+      "avg_salary": 10312.738095238095
+    },
+    {
+      "name": "company_161512",
+      "count": 157,
+      "industry": "type_BLfSmG",
+      "avg_salary": 14913.312101910828
+    },
+    {
+      "name": "company_645480",
+      "count": 147,
+      "industry": "type_vjgYNw",
+      "avg_salary": 10433.673469387755
+    },
+    {
+      "name": "company_877473",
+      "count": 143,
+      "industry": "type_irYhZM",
+      "avg_salary": 10569.93006993007
+    },
+    {
+      "name": "company_118908",
+      "count": 137,
+      "industry": "type_bMfEOy",
+      "avg_salary": 12885.766423357663
+    },
+    {
+      "name": "company_269370",
+      "count": 136,
+      "industry": "type_ruszQK",
+      "avg_salary": 9617.279411764706
+    },
+    {
+      "name": "company_040338",
+      "count": 135,
+      "industry": "type_aAuygy",
+      "avg_salary": 14137.111111111111
+    },
+    {
+      "name": "company_268950",
+      "count": 132,
+      "industry": "type_BLfSmG",
+      "avg_salary": 10288.712121212122
+    },
+    {
+      "name": "company_658637",
+      "count": 131,
+      "industry": "type_BLfSmG",
+      "avg_salary": 15605.038167938932
+    },
+    {
+      "name": "company_635276",
+      "count": 126,
+      "industry": "type_YbtQWp",
+      "avg_salary": 34023.80952380953
+    },
+    {
+      "name": "company_149807",
+      "count": 125,
+      "industry": "type_BLfSmG",
+      "avg_salary": 15652.0
+    },
+    {
+      "name": "company_023398",
+      "count": 124,
+      "industry": "type_CbBLwi",
+      "avg_salary": 14337.177419354839
+    },
+    {
+      "name": "company_388086",
+      "count": 121,
+      "industry": "type_BLfSmG",
+      "avg_salary": 32338.84297520661
+    },
+    {
+      "name": "company_105747",
+      "count": 120,
+      "industry": "type_BPRUkx",
+      "avg_salary": 9322.916666666666
+    },
+    {
+      "name": "company_491944",
+      "count": 120,
+      "industry": "type_ZcPYrP",
+      "avg_salary": 9904.166666666666
+    },
+    {
+      "name": "company_645672",
+      "count": 118,
+      "industry": "type_qrSFSq",
+      "avg_salary": 7436.440677966101
+    },
+    {
+      "name": "company_559417",
+      "count": 113,
+      "industry": "type_vjgYNw",
+      "avg_salary": 8132.477876106194
+    },
+    {
+      "name": "company_673639",
+      "count": 113,
+      "industry": "type_plzlSo",
+      "avg_salary": 12177.433628318584
+    },
+    {
+      "name": "company_679820",
+      "count": 111,
+      "industry": "type_BLfSmG",
+      "avg_salary": 24640.81081081081
+    },
+    {
+      "name": "company_350586",
+      "count": 110,
+      "industry": "type_HfKfzV",
+      "avg_salary": 15952.363636363636
+    },
+    {
+      "name": "company_191188",
+      "count": 107,
+      "industry": "type_CbBLwi",
+      "avg_salary": 11830.373831775702
+    },
+    {
+      "name": "company_249184",
+      "count": 106,
+      "industry": "type_irYhZM",
+      "avg_salary": 10009.433962264151
+    },
+    {
+      "name": "company_054138",
+      "count": 102,
+      "industry": "type_BLfSmG",
+      "avg_salary": 32992.25490196078
+    },
+    {
+      "name": "company_492310",
+      "count": 102,
+      "industry": "type_uipXwT",
+      "avg_salary": 9294.117647058823
+    },
+    {
+      "name": "company_071996",
+      "count": 102,
+      "industry": "type_IWPTYt",
+      "avg_salary": 29391.666666666668
+    },
+    {
+      "name": "company_611060",
+      "count": 101,
+      "industry": "type_bMIeXj",
+      "avg_salary": 25190.59405940594
+    },
+    {
+      "name": "company_358953",
+      "count": 98,
+      "industry": "type_BLfSmG",
+      "avg_salary": 20867.95918367347
+    },
+    {
+      "name": "company_372161",
+      "count": 97,
+      "industry": "type_BLfSmG",
+      "avg_salary": 13620.20618556701
+    },
+    {
+      "name": "company_704439",
+      "count": 95,
+      "industry": "type_ruszQK",
+      "avg_salary": 9758.421052631578
+    },
+    {
+      "name": "company_017147",
+      "count": 93,
+      "industry": "type_BPRUkx",
+      "avg_salary": 10862.68817204301
+    },
+    {
+      "name": "company_964473",
+      "count": 93,
+      "industry": "type_irYhZM",
+      "avg_salary": 9996.021505376344
+    },
+    {
+      "name": "company_278586",
+      "count": 92,
+      "industry": "type_BLfSmG",
+      "avg_salary": 19851.630434782608
+    },
+    {
+      "name": "company_837846",
+      "count": 89,
+      "industry": "type_irYhZM",
+      "avg_salary": 25372.808988764045
+    },
+    {
+      "name": "company_818708",
+      "count": 89,
+      "industry": "type_cPyqFN",
+      "avg_salary": 23431.573033707864
+    },
+    {
+      "name": "company_041643",
+      "count": 87,
+      "industry": "type_FdhMSx",
+      "avg_salary": 6678.16091954023
+    },
+    {
+      "name": "company_227658",
+      "count": 86,
+      "industry": "type_CbBLwi",
+      "avg_salary": 14890.348837209302
+    },
+    {
+      "name": "company_648317",
+      "count": 85,
+      "industry": "type_BLfSmG",
+      "avg_salary": 15126.823529411764
+    }
+  ],
+  "top_jobs": [
+    {
+      "name": "bfbc45b05c5a4425210cd2cb3d84ae09GC",
+      "count": 3357,
+      "avg_salary": 7765.317247542449
+    },
+    {
+      "name": "c9a30a5443d04270fb0f49d437c3376bAy",
+      "count": 2632,
+      "avg_salary": 10874.228723404256
+    },
+    {
+      "name": "9e7afc7cdb61931eb7d2cc8398b80ecfSQ",
+      "count": 2036,
+      "avg_salary": 9285.766208251474
+    },
+    {
+      "name": "6be068c4e74275ca8ed9975805e2f763Em",
+      "count": 2034,
+      "avg_salary": 8588.746312684365
+    },
+    {
+      "name": "2006631955b0aa1d8a3bc1edc55e0754sn",
+      "count": 1872,
+      "avg_salary": 5687.451923076923
+    },
+    {
+      "name": "71f952e353628d7e2f40d40038b09ac2Tn",
+      "count": 1846,
+      "avg_salary": 15325.931744312025
+    },
+    {
+      "name": "e5ebf2752a03d6729cb633770e4eddd7Hd",
+      "count": 1724,
+      "avg_salary": 4477.291183294664
+    },
+    {
+      "name": "39a3d2b8857c48c2443faeacf50ae574Xo",
+      "count": 1572,
+      "avg_salary": 8745.737913486006
+    },
+    {
+      "name": "534952ab1cf024773caddc874099da11qn",
+      "count": 1291,
+      "avg_salary": 8536.738962044927
+    },
+    {
+      "name": "09b8073e6d0a727247e9bbcf43f8e75avx",
+      "count": 1175,
+      "avg_salary": 8924.212765957447
+    },
+    {
+      "name": "357b6e22304e1fba993bb725e5c00276aY",
+      "count": 1174,
+      "avg_salary": 5100.102214650767
+    },
+    {
+      "name": "c7f9349f001ec07fe76d0becea13a18azM",
+      "count": 1101,
+      "avg_salary": 5058.346957311535
+    },
+    {
+      "name": "63c630beb7b2f471af699f711207d28aVY",
+      "count": 1082,
+      "avg_salary": 13312.273567467653
+    },
+    {
+      "name": "769db4ea593ce8f93a093a84ad1baec2OY",
+      "count": 1076,
+      "avg_salary": 10842.685873605948
+    },
+    {
+      "name": "65e915067ec7ca2082c1bfc73ffbc06bhv",
+      "count": 1066,
+      "avg_salary": 5863.302063789869
+    },
+    {
+      "name": "77f94afcb944fea2069092a4c92bab1fzk",
+      "count": 1066,
+      "avg_salary": 10076.472795497186
+    },
+    {
+      "name": "cf8025d88a7ef18800686dbd36ecfae1dF",
+      "count": 1029,
+      "avg_salary": 7992.643343051506
+    },
+    {
+      "name": "d4c894e72cbcba3ee54f16b94c185a4bJB",
+      "count": 1008,
+      "avg_salary": 5839.4047619047615
+    },
+    {
+      "name": "1647ffac32b2f51cfbe51f4150246471lB",
+      "count": 1003,
+      "avg_salary": 8709.970089730808
+    },
+    {
+      "name": "0cf5da7bb05dfb15718653637b8df718vT",
+      "count": 970,
+      "avg_salary": 5611.917525773196
+    },
+    {
+      "name": "6951495c1941499b294fcec5f33cd242wQ",
+      "count": 923,
+      "avg_salary": 8537.353579175706
+    },
+    {
+      "name": "143594a38184724594778ca447bc06fcwe",
+      "count": 918,
+      "avg_salary": 15652.519083969466
+    },
+    {
+      "name": "d26737bff980339cf372392e773fb063Es",
+      "count": 900,
+      "avg_salary": 6186.344444444445
+    },
+    {
+      "name": "bb9685f7011f9604acad8ae63c6da0ddHn",
+      "count": 877,
+      "avg_salary": 10563.523375142531
+    },
+    {
+      "name": "b33302c688b04656f05d2a96c98e14c8cK",
+      "count": 837,
+      "avg_salary": 4411.517323775388
+    },
+    {
+      "name": "31e5c65f17292fdded6dd7f7d7622e5ddi",
+      "count": 798,
+      "avg_salary": 8269.423558897242
+    },
+    {
+      "name": "02e22012bd6fdd7415a80c2da954d8f0hL",
+      "count": 793,
+      "avg_salary": 6991.803278688524
+    },
+    {
+      "name": "c82f110050f63259dc05a34b7f3ffe5fFR",
+      "count": 752,
+      "avg_salary": 7297.313829787234
+    },
+    {
+      "name": "c02aef655be4fb390a9dd9ca2443be6aUG",
+      "count": 729,
+      "avg_salary": 6380.384087791495
+    },
+    {
+      "name": "4f7f001bdbae6c195a6d7ba55b98dca1pf",
+      "count": 712,
+      "avg_salary": 8436.671348314607
+    },
+    {
+      "name": "8a6ed1d6ce11578d39635ef008e7cb2fOq",
+      "count": 709,
+      "avg_salary": 9546.290550070522
+    },
+    {
+      "name": "e089e2787ca1f2cd11abb5b5b46da777eD",
+      "count": 709,
+      "avg_salary": 6126.177715091679
+    },
+    {
+      "name": "f693da772b6ba497215104c0b3c3f571hM",
+      "count": 702,
+      "avg_salary": 7579.74358974359
+    },
+    {
+      "name": "2d6d2afd6028853b0a50f674cd887f55zs",
+      "count": 700,
+      "avg_salary": 6742.5
+    },
+    {
+      "name": "33ed1e1a04b3fa96d01d39e545cc1f66wF",
+      "count": 687,
+      "avg_salary": 6613.318777292577
+    },
+    {
+      "name": "3896ac0c41340ac06686eb161a775aa6kx",
+      "count": 676,
+      "avg_salary": 10084.31952662722
+    },
+    {
+      "name": "02e9c21342c88515b4fa7e525d9ac652bO",
+      "count": 663,
+      "avg_salary": 7661.387631975867
+    },
+    {
+      "name": "74cbfa3620bb69031ebe4050585bd896uh",
+      "count": 655,
+      "avg_salary": 7171.6488549618325
+    },
+    {
+      "name": "9f886439f15f3c3c2b24840763edfcdbrG",
+      "count": 642,
+      "avg_salary": 8820.389408099689
+    },
+    {
+      "name": "600a4de652c1b94b122b5b1a72cdf8baqf",
+      "count": 631,
+      "avg_salary": 9320.047543581617
+    },
+    {
+      "name": "df25af9b3490d9a57db263dfa308c5abDG",
+      "count": 631,
+      "avg_salary": 12301.109350237717
+    },
+    {
+      "name": "dcbc4702b1a74e52cab4dc1e23971439LM",
+      "count": 612,
+      "avg_salary": 5572.18954248366
+    },
+    {
+      "name": "487e36748734bdd5f6385b9588c3a46bmZ",
+      "count": 604,
+      "avg_salary": 6263.85761589404
+    },
+    {
+      "name": "3091525444b8b4d7fbc725e42b1b44a2YQ",
+      "count": 596,
+      "avg_salary": 6743.2885906040265
+    },
+    {
+      "name": "8c9c8016d13138e456a315a6068ff697lQ",
+      "count": 593,
+      "avg_salary": 8818.887015177066
+    },
+    {
+      "name": "0cb8293fae46fb1f84b1f68d2371dc3bLQ",
+      "count": 592,
+      "avg_salary": 12584.375
+    },
+    {
+      "name": "5064c34286de0a0fa07ec216e1bbd200WV",
+      "count": 590,
+      "avg_salary": 6394.677966101695
+    },
+    {
+      "name": "0f788cd8169f5149bc519e585cf7148bGu",
+      "count": 587,
+      "avg_salary": 15814.310051107326
+    },
+    {
+      "name": "cdb6e01527a77d5a9878138b46dedd99uS",
+      "count": 579,
+      "avg_salary": 6410.483592400691
+    },
+    {
+      "name": "dface8469dd1315170c2980c12ee4b9dzl",
+      "count": 566,
+      "avg_salary": 5729.275618374559
+    }
+  ],
+  "top_industries": [
+    {
+      "name": "type_BLfSmG",
+      "count": 21505,
+      "avg_salary": 14871.249651195238,
+      "company_count": 9539
+    },
+    {
+      "name": "type_lOdYUb",
+      "count": 21038,
+      "avg_salary": 8191.155583020392,
+      "company_count": 16838
+    },
+    {
+      "name": "type_uTAWZv",
+      "count": 19571,
+      "avg_salary": 5863.288028204997,
+      "company_count": 16610
+    },
+    {
+      "name": "type_qrSFSq",
+      "count": 18755,
+      "avg_salary": 9793.131431618234,
+      "company_count": 13553
+    },
+    {
+      "name": "type_CbBLwi",
+      "count": 13674,
+      "avg_salary": 13375.235134937468,
+      "company_count": 7442
+    },
+    {
+      "name": "type_fFlUqG",
+      "count": 13361,
+      "avg_salary": 7292.691415313225,
+      "company_count": 10851
+    },
+    {
+      "name": "type_yZblEo",
+      "count": 12848,
+      "avg_salary": 8367.397260273972,
+      "company_count": 9942
+    },
+    {
+      "name": "type_qGLNuz",
+      "count": 12229,
+      "avg_salary": 7400.734320058877,
+      "company_count": 10344
+    },
+    {
+      "name": "type_YOHpQY",
+      "count": 10910,
+      "avg_salary": 8137.444546287809,
+      "company_count": 9498
+    },
+    {
+      "name": "type_HfjYoW",
+      "count": 10676,
+      "avg_salary": 7604.098913450731,
+      "company_count": 9112
+    },
+    {
+      "name": "type_qhLBWb",
+      "count": 9158,
+      "avg_salary": 8624.594889713911,
+      "company_count": 7579
+    },
+    {
+      "name": "type_vrMpBQ",
+      "count": 8466,
+      "avg_salary": 8743.032128514056,
+      "company_count": 6655
+    },
+    {
+      "name": "type_lYwbWD",
+      "count": 8041,
+      "avg_salary": 8142.233553040666,
+      "company_count": 6701
+    },
+    {
+      "name": "type_PCcrub",
+      "count": 7842,
+      "avg_salary": 7926.120887528692,
+      "company_count": 6645
+    },
+    {
+      "name": "type_ZcPYrP",
+      "count": 7680,
+      "avg_salary": 10813.903645833334,
+      "company_count": 3943
+    },
+    {
+      "name": "type_qnHODO",
+      "count": 7642,
+      "avg_salary": 6504.015964407224,
+      "company_count": 7198
+    },
+    {
+      "name": "type_HcIRlZ",
+      "count": 7339,
+      "avg_salary": 9025.273197983377,
+      "company_count": 5846
+    },
+    {
+      "name": "type_XqvUzw",
+      "count": 7290,
+      "avg_salary": 5179.19341563786,
+      "company_count": 6476
+    },
+    {
+      "name": "type_BmzsHA",
+      "count": 7205,
+      "avg_salary": 10847.517002081888,
+      "company_count": 4686
+    },
+    {
+      "name": "type_lwxCGv",
+      "count": 6553,
+      "avg_salary": 7701.754921410041,
+      "company_count": 5279
+    }
+  ]
+}

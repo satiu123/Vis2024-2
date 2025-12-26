@@ -1,0 +1,107 @@
+[
+  {
+    "education": 0,
+    "experience": 0,
+    "count": 5259,
+    "salary_mean": 3881.3519680547633,
+    "salary_median": 3410.0
+  },
+  {
+    "education": 0,
+    "experience": 1,
+    "count": 23571,
+    "salary_mean": 7448.1778456577995,
+    "salary_median": 6500.0
+  },
+  {
+    "education": 0,
+    "experience": 2,
+    "count": 74246,
+    "salary_mean": 7011.318993615818,
+    "salary_median": 6000.0
+  },
+  {
+    "education": 0,
+    "experience": 3,
+    "count": 8157,
+    "salary_mean": 9265.88942012995,
+    "salary_median": 7500.0
+  },
+  {
+    "education": 0,
+    "experience": 4,
+    "count": 2412,
+    "salary_mean": 11232.288557213931,
+    "salary_median": 9000.0
+  },
+  {
+    "education": 1,
+    "experience": 0,
+    "count": 1429,
+    "salary_mean": 5927.5717284814555,
+    "salary_median": 5500.0
+  },
+  {
+    "education": 1,
+    "experience": 1,
+    "count": 58279,
+    "salary_mean": 8020.3747490519745,
+    "salary_median": 7500.0
+  },
+  {
+    "education": 1,
+    "experience": 2,
+    "count": 31504,
+    "salary_mean": 7524.67686642966,
+    "salary_median": 6500.0
+  },
+  {
+    "education": 1,
+    "experience": 3,
+    "count": 27483,
+    "salary_mean": 10256.73398100644,
+    "salary_median": 9000.0
+  },
+  {
+    "education": 1,
+    "experience": 4,
+    "count": 8272,
+    "salary_mean": 13609.933510638299,
+    "salary_median": 11500.0
+  },
+  {
+    "education": 2,
+    "experience": 0,
+    "count": 2212,
+    "salary_mean": 8638.490054249547,
+    "salary_median": 7500.0
+  },
+  {
+    "education": 2,
+    "experience": 1,
+    "count": 35950,
+    "salary_mean": 9961.131015299026,
+    "salary_median": 8500.0
+  },
+  {
+    "education": 2,
+    "experience": 2,
+    "count": 18809,
+    "salary_mean": 10345.90249348716,
+    "salary_median": 8000.0
+  },
+  {
+    "education": 2,
+    "experience": 3,
+    "count": 35011,
+    "salary_mean": 14705.519693810516,
+    "salary_median": 12500.0
+  },
+  {
+    "education": 2,
+    "experience": 4,
+    "count": 17064,
+    "salary_mean": 20598.21319737459,
+    "salary_median": 18000.0
+  }
+]

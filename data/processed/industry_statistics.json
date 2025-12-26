@@ -1,0 +1,1582 @@
+[
+  {
+    "industry": "type_BLfSmG",
+    "job_count": 21505,
+    "salary_mean": 14871.249651195238,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 16078.459058072118,
+    "company_count": 9539,
+    "avg_experience": 1.996140432457568,
+    "avg_education": 1.1847012322715647
+  },
+  {
+    "industry": "type_lOdYUb",
+    "job_count": 21038,
+    "salary_mean": 8191.155583020392,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8244.65457685665,
+    "company_count": 16838,
+    "avg_experience": 1.464160091263428,
+    "avg_education": 1.0505751497290616
+  },
+  {
+    "industry": "type_uTAWZv",
+    "job_count": 19571,
+    "salary_mean": 5863.288028204997,
+    "salary_median": 5000.0,
+    "annual_salary_mean": 5890.01337012246,
+    "company_count": 16610,
+    "avg_experience": 1.7114608349087936,
+    "avg_education": -0.006233713147003219
+  },
+  {
+    "industry": "type_qrSFSq",
+    "job_count": 18755,
+    "salary_mean": 9793.131431618234,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10115.349951124144,
+    "company_count": 13553,
+    "avg_experience": 1.6236203679018928,
+    "avg_education": 0.8039456145027992
+  },
+  {
+    "industry": "type_CbBLwi",
+    "job_count": 13674,
+    "salary_mean": 13375.235134937468,
+    "salary_median": 11500.0,
+    "annual_salary_mean": 14099.753041273558,
+    "company_count": 7442,
+    "avg_experience": 2.1235190873189995,
+    "avg_education": 1.4231388035688168
+  },
+  {
+    "industry": "type_fFlUqG",
+    "job_count": 13361,
+    "salary_mean": 7292.691415313225,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7364.280368235911,
+    "company_count": 10851,
+    "avg_experience": 1.6170196841553777,
+    "avg_education": 0.31464710725245115
+  },
+  {
+    "industry": "type_yZblEo",
+    "job_count": 12848,
+    "salary_mean": 8367.397260273972,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8415.134910751349,
+    "company_count": 9942,
+    "avg_experience": 1.6684308841843087,
+    "avg_education": 0.537826899128269
+  },
+  {
+    "industry": "type_qGLNuz",
+    "job_count": 12229,
+    "salary_mean": 7400.734320058877,
+    "salary_median": 6000.0,
+    "annual_salary_mean": 7464.844222749202,
+    "company_count": 10344,
+    "avg_experience": 1.6464142611824353,
+    "avg_education": 0.2680513533404203
+  },
+  {
+    "industry": "type_YOHpQY",
+    "job_count": 10910,
+    "salary_mean": 8137.444546287809,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8190.771005194012,
+    "company_count": 9498,
+    "avg_experience": 1.7812098991750687,
+    "avg_education": 0.5307974335472044
+  },
+  {
+    "industry": "type_HfjYoW",
+    "job_count": 10676,
+    "salary_mean": 7604.098913450731,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7690.8121019108285,
+    "company_count": 9112,
+    "avg_experience": 1.657362307980517,
+    "avg_education": 0.6696328212813788
+  },
+  {
+    "industry": "type_qhLBWb",
+    "job_count": 9158,
+    "salary_mean": 8624.594889713911,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8698.482929314989,
+    "company_count": 7579,
+    "avg_experience": 1.6201135619130815,
+    "avg_education": 0.5779646210963092
+  },
+  {
+    "industry": "type_vrMpBQ",
+    "job_count": 8466,
+    "salary_mean": 8743.032128514056,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8942.319473974329,
+    "company_count": 6655,
+    "avg_experience": 1.6315851641861563,
+    "avg_education": 1.0569336168202221
+  },
+  {
+    "industry": "type_lYwbWD",
+    "job_count": 8041,
+    "salary_mean": 8142.233553040666,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8224.359532396467,
+    "company_count": 6701,
+    "avg_experience": 1.9812212411391619,
+    "avg_education": 0.7929362019649298
+  },
+  {
+    "industry": "type_PCcrub",
+    "job_count": 7842,
+    "salary_mean": 7926.120887528692,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 7956.162118507184,
+    "company_count": 6645,
+    "avg_experience": 1.7135934710533027,
+    "avg_education": 0.05330272889568988
+  },
+  {
+    "industry": "type_ZcPYrP",
+    "job_count": 7680,
+    "salary_mean": 10813.903645833334,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 11105.841579861111,
+    "company_count": 3943,
+    "avg_experience": 1.782421875,
+    "avg_education": 0.8813802083333333
+  },
+  {
+    "industry": "type_qnHODO",
+    "job_count": 7642,
+    "salary_mean": 6504.015964407224,
+    "salary_median": 5500.0,
+    "annual_salary_mean": 6530.846855099014,
+    "company_count": 7198,
+    "avg_experience": 1.696807118555352,
+    "avg_education": -0.02486260141324261
+  },
+  {
+    "industry": "type_HcIRlZ",
+    "job_count": 7339,
+    "salary_mean": 9025.273197983377,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9243.36603533633,
+    "company_count": 5846,
+    "avg_experience": 1.9731571058727346,
+    "avg_education": 0.7118135985829132
+  },
+  {
+    "industry": "type_XqvUzw",
+    "job_count": 7290,
+    "salary_mean": 5179.19341563786,
+    "salary_median": 4500.0,
+    "annual_salary_mean": 5195.660036579789,
+    "company_count": 6476,
+    "avg_experience": 1.5499314128943757,
+    "avg_education": -0.012071330589849109
+  },
+  {
+    "industry": "type_BmzsHA",
+    "job_count": 7205,
+    "salary_mean": 10847.517002081888,
+    "salary_median": 9000.0,
+    "annual_salary_mean": 11220.718482535278,
+    "company_count": 4686,
+    "avg_experience": 1.8786953504510757,
+    "avg_education": 1.0378903539208884
+  },
+  {
+    "industry": "type_lwxCGv",
+    "job_count": 6553,
+    "salary_mean": 7701.754921410041,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7819.913271275243,
+    "company_count": 5279,
+    "avg_experience": 1.7704867999389593,
+    "avg_education": 0.43369449107279107
+  },
+  {
+    "industry": "type_SNJDAt",
+    "job_count": 6337,
+    "salary_mean": 9498.70478597378,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9769.877059969462,
+    "company_count": 4227,
+    "avg_experience": 1.792961969386145,
+    "avg_education": 0.7868076376834464
+  },
+  {
+    "industry": "type_pmgfTy",
+    "job_count": 6248,
+    "salary_mean": 10752.527208706786,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 10962.521073410158,
+    "company_count": 4441,
+    "avg_experience": 1.7263124199743918,
+    "avg_education": 1.0364916773367479
+  },
+  {
+    "industry": "type_FwqxZf",
+    "job_count": 5738,
+    "salary_mean": 8581.82119205298,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8726.202219123968,
+    "company_count": 4615,
+    "avg_experience": 1.7178459393516905,
+    "avg_education": 0.5113279888462879
+  },
+  {
+    "industry": "type_xjtctu",
+    "job_count": 5600,
+    "salary_mean": 13721.451785714286,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14533.386309523808,
+    "company_count": 3003,
+    "avg_experience": 1.9589285714285714,
+    "avg_education": 0.9578571428571429
+  },
+  {
+    "industry": "type_uipXwT",
+    "job_count": 5581,
+    "salary_mean": 8306.084931015946,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8418.736486890044,
+    "company_count": 4387,
+    "avg_experience": 1.7095502598100698,
+    "avg_education": 0.6740727468195664
+  },
+  {
+    "industry": "type_ruszQK",
+    "job_count": 5329,
+    "salary_mean": 9378.404954025145,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9418.640770626133,
+    "company_count": 3391,
+    "avg_experience": 1.6535935447551136,
+    "avg_education": 0.1733908800900732
+  },
+  {
+    "industry": "type_QbeiZo",
+    "job_count": 5245,
+    "salary_mean": 10448.985700667303,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10928.013346043852,
+    "company_count": 3627,
+    "avg_experience": 1.830505243088656,
+    "avg_education": 0.9008579599618685
+  },
+  {
+    "industry": "type_jIzdnZ",
+    "job_count": 4957,
+    "salary_mean": 10580.526528142022,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 10954.299307376774,
+    "company_count": 3097,
+    "avg_experience": 1.8176316320355053,
+    "avg_education": 0.9880976397014323
+  },
+  {
+    "industry": "type_ZIwauc",
+    "job_count": 4819,
+    "salary_mean": 13267.003527702844,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 14281.65905789583,
+    "company_count": 3128,
+    "avg_experience": 1.9628553641834405,
+    "avg_education": 1.0593484125337207
+  },
+  {
+    "industry": "type_FdhMSx",
+    "job_count": 4767,
+    "salary_mean": 6626.124632815779,
+    "salary_median": 5500.0,
+    "annual_salary_mean": 6867.828017904601,
+    "company_count": 2742,
+    "avg_experience": 1.7400881057268722,
+    "avg_education": 0.30228655338787497
+  },
+  {
+    "industry": "type_IWPTYt",
+    "job_count": 4688,
+    "salary_mean": 14074.255546075085,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14986.92263936291,
+    "company_count": 2756,
+    "avg_experience": 2.0686860068259385,
+    "avg_education": 1.2610921501706485
+  },
+  {
+    "industry": "type_irYhZM",
+    "job_count": 4575,
+    "salary_mean": 9764.459016393443,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10086.15300546448,
+    "company_count": 2449,
+    "avg_experience": 1.7801092896174864,
+    "avg_education": 0.5503825136612022
+  },
+  {
+    "industry": "type_GXFMik",
+    "job_count": 4452,
+    "salary_mean": 7694.905660377359,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7788.964510332435,
+    "company_count": 3829,
+    "avg_experience": 1.9146451033243486,
+    "avg_education": 0.31783468104222823
+  },
+  {
+    "industry": "type_BPRUkx",
+    "job_count": 4353,
+    "salary_mean": 13200.68458534344,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 13701.105750823188,
+    "company_count": 2108,
+    "avg_experience": 1.7452331725246957,
+    "avg_education": 0.6749368251780381
+  },
+  {
+    "industry": "type_aAuygy",
+    "job_count": 4214,
+    "salary_mean": 8211.464167062173,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8441.629489004903,
+    "company_count": 3110,
+    "avg_experience": 1.7097769340294258,
+    "avg_education": 0.43782629330802086
+  },
+  {
+    "industry": "type_MmKysX",
+    "job_count": 3905,
+    "salary_mean": 8925.111395646607,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9085.546734955185,
+    "company_count": 3051,
+    "avg_experience": 1.822279129321383,
+    "avg_education": 1.0988476312419975
+  },
+  {
+    "industry": "type_plzlSo",
+    "job_count": 3897,
+    "salary_mean": 10663.498459958932,
+    "salary_median": 9000.0,
+    "annual_salary_mean": 10835.876112251883,
+    "company_count": 2089,
+    "avg_experience": 1.5878881190659482,
+    "avg_education": 1.176289453425712
+  },
+  {
+    "industry": "type_fvIHbx",
+    "job_count": 3829,
+    "salary_mean": 7405.99895534082,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7462.508487855837,
+    "company_count": 3024,
+    "avg_experience": 1.5521023765996345,
+    "avg_education": 0.5978062157221207
+  },
+  {
+    "industry": "type_fWnADK",
+    "job_count": 3793,
+    "salary_mean": 8975.784339572898,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 9153.820634502152,
+    "company_count": 3020,
+    "avg_experience": 1.9799630899024518,
+    "avg_education": 1.3279725810703928
+  },
+  {
+    "industry": "type_UUMBcC",
+    "job_count": 3652,
+    "salary_mean": 10236.71139101862,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 10625.17433369843,
+    "company_count": 2759,
+    "avg_experience": 1.9915115005476451,
+    "avg_education": 0.9895947426067908
+  },
+  {
+    "industry": "type_xfFBgF",
+    "job_count": 3526,
+    "salary_mean": 7803.967668746455,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7879.667233881642,
+    "company_count": 3040,
+    "avg_experience": 1.682643221781055,
+    "avg_education": 0.41747022121384003
+  },
+  {
+    "industry": "type_cPyqFN",
+    "job_count": 3496,
+    "salary_mean": 13117.102402745995,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 13876.649027459955,
+    "company_count": 2100,
+    "avg_experience": 1.946796338672769,
+    "avg_education": 1.151887871853547
+  },
+  {
+    "industry": "type_LPhcvI",
+    "job_count": 3317,
+    "salary_mean": 7189.61410913476,
+    "salary_median": 6000.0,
+    "annual_salary_mean": 7288.548889558839,
+    "company_count": 2657,
+    "avg_experience": 1.6201386795296955,
+    "avg_education": 0.9176967138981007
+  },
+  {
+    "industry": "type_Hzhxlm",
+    "job_count": 3306,
+    "salary_mean": 8525.910465819721,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8601.870840895343,
+    "company_count": 2820,
+    "avg_experience": 1.6225045372050817,
+    "avg_education": 0.8251663641863279
+  },
+  {
+    "industry": "type_xvJgzl",
+    "job_count": 3260,
+    "salary_mean": 10767.601226993866,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 11159.395705521472,
+    "company_count": 1966,
+    "avg_experience": 1.7782208588957056,
+    "avg_education": 0.9150306748466258
+  },
+  {
+    "industry": "type_xkGnwk",
+    "job_count": 3007,
+    "salary_mean": 9911.509810442301,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10360.75324243432,
+    "company_count": 2149,
+    "avg_experience": 2.043232457598936,
+    "avg_education": 0.7439308280678417
+  },
+  {
+    "industry": "type_MhfbrD",
+    "job_count": 2983,
+    "salary_mean": 5698.773047267851,
+    "salary_median": 4500.0,
+    "annual_salary_mean": 5721.443178008716,
+    "company_count": 2692,
+    "avg_experience": 1.4860878310425747,
+    "avg_education": 0.7680187730472678
+  },
+  {
+    "industry": "type_BByMdf",
+    "job_count": 2934,
+    "salary_mean": 9381.765507839127,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 9479.229152465348,
+    "company_count": 2205,
+    "avg_experience": 1.538173142467621,
+    "avg_education": 0.9676209952283572
+  },
+  {
+    "industry": "type_MDYYNy",
+    "job_count": 2930,
+    "salary_mean": 9575.17747440273,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 9747.518202502844,
+    "company_count": 2218,
+    "avg_experience": 1.6276450511945393,
+    "avg_education": 0.9750853242320819
+  },
+  {
+    "industry": "type_birMPO",
+    "job_count": 2657,
+    "salary_mean": 8871.686112156567,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9018.89160707565,
+    "company_count": 2125,
+    "avg_experience": 1.9661272111403838,
+    "avg_education": 0.7602559277380504
+  },
+  {
+    "industry": "type_xKVDuy",
+    "job_count": 2641,
+    "salary_mean": 12000.390151515152,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 12589.5,
+    "company_count": 1793,
+    "avg_experience": 2.066262779250284,
+    "avg_education": 1.0541461567588035
+  },
+  {
+    "industry": "type_gtGYMQ",
+    "job_count": 2597,
+    "salary_mean": 14036.253369272237,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14433.891669875497,
+    "company_count": 1753,
+    "avg_experience": 1.7989988448209473,
+    "avg_education": 0.8032345013477089
+  },
+  {
+    "industry": "type_PanQpo",
+    "job_count": 2567,
+    "salary_mean": 8208.032723022983,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8271.612128295026,
+    "company_count": 2164,
+    "avg_experience": 1.7206856252434748,
+    "avg_education": 0.3058044409816907
+  },
+  {
+    "industry": "type_rJQdMX",
+    "job_count": 2332,
+    "salary_mean": 7699.18524871355,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7779.2667238421955,
+    "company_count": 1789,
+    "avg_experience": 1.6869639794168096,
+    "avg_education": 0.6753859348198971
+  },
+  {
+    "industry": "type_NKZQoO",
+    "job_count": 2299,
+    "salary_mean": 11139.051761635494,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 11672.43584167029,
+    "company_count": 1725,
+    "avg_experience": 1.8751631143975642,
+    "avg_education": 1.0661157024793388
+  },
+  {
+    "industry": "type_bMfEOy",
+    "job_count": 2240,
+    "salary_mean": 14033.401785714286,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14861.99181547619,
+    "company_count": 1037,
+    "avg_experience": 2.080357142857143,
+    "avg_education": 0.9607142857142857
+  },
+  {
+    "industry": "type_bMIeXj",
+    "job_count": 2205,
+    "salary_mean": 10057.020408163266,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10562.821617535903,
+    "company_count": 1609,
+    "avg_experience": 1.6090702947845805,
+    "avg_education": 0.9687074829931973
+  },
+  {
+    "industry": "type_kCfcsh",
+    "job_count": 2163,
+    "salary_mean": 7406.000924641701,
+    "salary_median": 6000.0,
+    "annual_salary_mean": 7429.097703806442,
+    "company_count": 2008,
+    "avg_experience": 1.6629680998613037,
+    "avg_education": 0.02311604253351826
+  },
+  {
+    "industry": "type_vOhwEs",
+    "job_count": 2136,
+    "salary_mean": 12903.7734082397,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 13139.37734082397,
+    "company_count": 1183,
+    "avg_experience": 1.6441947565543071,
+    "avg_education": 0.5187265917602997
+  },
+  {
+    "industry": "type_MPxoTH",
+    "job_count": 2116,
+    "salary_mean": 11405.014177693762,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 11858.582230623819,
+    "company_count": 1401,
+    "avg_experience": 1.9636105860113422,
+    "avg_education": 1.077977315689981
+  },
+  {
+    "industry": "type_YgqIFe",
+    "job_count": 1821,
+    "salary_mean": 8589.489291598024,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8761.624565257185,
+    "company_count": 1573,
+    "avg_experience": 1.6468973091707853,
+    "avg_education": 0.4783086216364635
+  },
+  {
+    "industry": "type_oWxwZg",
+    "job_count": 1744,
+    "salary_mean": 6204.369266055046,
+    "salary_median": 5500.0,
+    "annual_salary_mean": 6220.878249235474,
+    "company_count": 1580,
+    "avg_experience": 1.452408256880734,
+    "avg_education": 0.3451834862385321
+  },
+  {
+    "industry": "type_DiAZyX",
+    "job_count": 1643,
+    "salary_mean": 9167.98539257456,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9392.726719415703,
+    "company_count": 1264,
+    "avg_experience": 1.8764455264759585,
+    "avg_education": 0.9768715763846622
+  },
+  {
+    "industry": "type_QHXrbv",
+    "job_count": 1479,
+    "salary_mean": 9678.309668695065,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 9941.606941627226,
+    "company_count": 1128,
+    "avg_experience": 1.9641649763353617,
+    "avg_education": 1.0561189993238675
+  },
+  {
+    "industry": "type_DNepgK",
+    "job_count": 1478,
+    "salary_mean": 8463.998646820028,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8493.37392873252,
+    "company_count": 1170,
+    "avg_experience": 1.662381596752368,
+    "avg_education": 0.010825439783491205
+  },
+  {
+    "industry": "type_YwwqZR",
+    "job_count": 1414,
+    "salary_mean": 8995.572842998585,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9148.095238095239,
+    "company_count": 1104,
+    "avg_experience": 1.6874115983026874,
+    "avg_education": 0.5021216407355021
+  },
+  {
+    "industry": "type_qkdgGE",
+    "job_count": 1407,
+    "salary_mean": 12103.19829424307,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 12467.448471926084,
+    "company_count": 784,
+    "avg_experience": 1.728500355366027,
+    "avg_education": 1.394456289978678
+  },
+  {
+    "industry": "type_AWbXKM",
+    "job_count": 1309,
+    "salary_mean": 9606.027501909855,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9791.25159154571,
+    "company_count": 961,
+    "avg_experience": 1.6783804430863254,
+    "avg_education": 0.6256684491978609
+  },
+  {
+    "industry": "type_iQQmHS",
+    "job_count": 1306,
+    "salary_mean": 6389.7166921898925,
+    "salary_median": 5500.0,
+    "annual_salary_mean": 6406.4982133741705,
+    "company_count": 1218,
+    "avg_experience": 1.5344563552833077,
+    "avg_education": 0.1584992343032159
+  },
+  {
+    "industry": "type_OGhnqx",
+    "job_count": 1234,
+    "salary_mean": 11160.486223662885,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 11404.30713128039,
+    "company_count": 808,
+    "avg_experience": 1.693679092382496,
+    "avg_education": 0.906807131280389
+  },
+  {
+    "industry": "type_TCHRUI",
+    "job_count": 1168,
+    "salary_mean": 7025.385273972603,
+    "salary_median": 6250.0,
+    "annual_salary_mean": 7111.786529680366,
+    "company_count": 1021,
+    "avg_experience": 1.8390410958904109,
+    "avg_education": 0.4058219178082192
+  },
+  {
+    "industry": "type_cTQtSq",
+    "job_count": 1159,
+    "salary_mean": 12865.452976704055,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 13632.313776243887,
+    "company_count": 721,
+    "avg_experience": 2.0163934426229506,
+    "avg_education": 1.3088869715271787
+  },
+  {
+    "industry": "type_HtAHwu",
+    "job_count": 1150,
+    "salary_mean": 8576.617391304348,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8646.327536231884,
+    "company_count": 952,
+    "avg_experience": 1.6130434782608696,
+    "avg_education": 1.0913043478260869
+  },
+  {
+    "industry": "type_SgStOb",
+    "job_count": 1129,
+    "salary_mean": 9500.86802480071,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 9864.722468260998,
+    "company_count": 917,
+    "avg_experience": 1.7422497785651019,
+    "avg_education": 0.79185119574845
+  },
+  {
+    "industry": "type_oAXCMx",
+    "job_count": 1100,
+    "salary_mean": 7825.936363636363,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7931.959090909091,
+    "company_count": 860,
+    "avg_experience": 1.4981818181818183,
+    "avg_education": 0.7918181818181819
+  },
+  {
+    "industry": "type_EALDJm",
+    "job_count": 1019,
+    "salary_mean": 11099.293424926398,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 11156.539090611712,
+    "company_count": 594,
+    "avg_experience": 1.4033366045142297,
+    "avg_education": 0.22767419038272815
+  },
+  {
+    "industry": "type_cVhkbn",
+    "job_count": 975,
+    "salary_mean": 17493.682051282052,
+    "salary_median": 12500.0,
+    "annual_salary_mean": 19364.408547008545,
+    "company_count": 514,
+    "avg_experience": 2.1138461538461537,
+    "avg_education": 1.198974358974359
+  },
+  {
+    "industry": "type_PkWZvJ",
+    "job_count": 900,
+    "salary_mean": 15964.333333333334,
+    "salary_median": 12500.0,
+    "annual_salary_mean": 16942.620370370372,
+    "company_count": 633,
+    "avg_experience": 1.8755555555555556,
+    "avg_education": 1.1133333333333333
+  },
+  {
+    "industry": "type_HfKfzV",
+    "job_count": 883,
+    "salary_mean": 12471.483578708947,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 13281.364665911664,
+    "company_count": 623,
+    "avg_experience": 1.8414496036240091,
+    "avg_education": 0.7519818799546999
+  },
+  {
+    "industry": "type_sfleWH",
+    "job_count": 860,
+    "salary_mean": 9037.813953488372,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9240.43023255814,
+    "company_count": 666,
+    "avg_experience": 1.7325581395348837,
+    "avg_education": 1.0558139534883721
+  },
+  {
+    "industry": "type_rEfHmL",
+    "job_count": 830,
+    "salary_mean": 8051.433734939759,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8186.6244979919675,
+    "company_count": 656,
+    "avg_experience": 1.574698795180723,
+    "avg_education": 1.1325301204819278
+  },
+  {
+    "industry": "type_amzGIA",
+    "job_count": 796,
+    "salary_mean": 8999.949748743718,
+    "salary_median": 7250.0,
+    "annual_salary_mean": 9251.153685092127,
+    "company_count": 654,
+    "avg_experience": 1.7964824120603016,
+    "avg_education": 0.5389447236180904
+  },
+  {
+    "industry": "type_fnLTiU",
+    "job_count": 770,
+    "salary_mean": 12165.246753246753,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 12718.060606060606,
+    "company_count": 447,
+    "avg_experience": 2.105194805194805,
+    "avg_education": 1.209090909090909
+  },
+  {
+    "industry": "type_WdjlyG",
+    "job_count": 757,
+    "salary_mean": 9141.783355350066,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9296.230735358873,
+    "company_count": 607,
+    "avg_experience": 1.5442536327608982,
+    "avg_education": 1.0409511228533685
+  },
+  {
+    "industry": "type_EQAguk",
+    "job_count": 757,
+    "salary_mean": 11612.879788639366,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 12048.040510788198,
+    "company_count": 556,
+    "avg_experience": 2.130779392338177,
+    "avg_education": 0.9498018494055482
+  },
+  {
+    "industry": "type_sDXgXU",
+    "job_count": 696,
+    "salary_mean": 9968.002873563219,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 10105.03591954023,
+    "company_count": 549,
+    "avg_experience": 1.610632183908046,
+    "avg_education": 1.1422413793103448
+  },
+  {
+    "industry": "type_wiXJCA",
+    "job_count": 694,
+    "salary_mean": 8601.541786743515,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 8646.330451488953,
+    "company_count": 475,
+    "avg_experience": 1.701729106628242,
+    "avg_education": 0.06628242074927954
+  },
+  {
+    "industry": "type_kwzqET",
+    "job_count": 694,
+    "salary_mean": 8107.3919308357345,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 8242.358309317964,
+    "company_count": 611,
+    "avg_experience": 1.5835734870317002,
+    "avg_education": 0.2507204610951009
+  },
+  {
+    "industry": "type_oWfbru",
+    "job_count": 670,
+    "salary_mean": 9652.283582089553,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9918.701492537313,
+    "company_count": 548,
+    "avg_experience": 2.056716417910448,
+    "avg_education": 0.9880597014925373
+  },
+  {
+    "industry": "type_PkZpfa",
+    "job_count": 640,
+    "salary_mean": 9841.1875,
+    "salary_median": 9000.0,
+    "annual_salary_mean": 10030.575520833332,
+    "company_count": 404,
+    "avg_experience": 2.103125,
+    "avg_education": 0.9703125
+  },
+  {
+    "industry": "type_vjgYNw",
+    "job_count": 610,
+    "salary_mean": 8877.573770491803,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9082.423497267759,
+    "company_count": 96,
+    "avg_experience": 1.8163934426229509,
+    "avg_education": 0.5032786885245901
+  },
+  {
+    "industry": "type_RjsWZd",
+    "job_count": 596,
+    "salary_mean": 10575.620805369128,
+    "salary_median": 9000.0,
+    "annual_salary_mean": 10886.442953020134,
+    "company_count": 390,
+    "avg_experience": 2.164429530201342,
+    "avg_education": 1.139261744966443
+  },
+  {
+    "industry": "type_ZnqLAd",
+    "job_count": 583,
+    "salary_mean": 13042.88164665523,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 13788.450543167524,
+    "company_count": 321,
+    "avg_experience": 2.097770154373928,
+    "avg_education": 1.320754716981132
+  },
+  {
+    "industry": "type_NzejLx",
+    "job_count": 580,
+    "salary_mean": 11736.431034482759,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 12551.44540229885,
+    "company_count": 317,
+    "avg_experience": 1.9379310344827587,
+    "avg_education": 1.3103448275862069
+  },
+  {
+    "industry": "type_YbtQWp",
+    "job_count": 546,
+    "salary_mean": 11180.604395604396,
+    "salary_median": 8750.0,
+    "annual_salary_mean": 11807.588522588521,
+    "company_count": 315,
+    "avg_experience": 2.0073260073260073,
+    "avg_education": 1.0934065934065933
+  },
+  {
+    "industry": "type_kiIJXj",
+    "job_count": 512,
+    "salary_mean": 14135.25390625,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14489.664713541666,
+    "company_count": 252,
+    "avg_experience": 1.78515625,
+    "avg_education": 0.919921875
+  },
+  {
+    "industry": "type_jImIvP",
+    "job_count": 510,
+    "salary_mean": 10627.627450980392,
+    "salary_median": 8375.0,
+    "annual_salary_mean": 11036.36928104575,
+    "company_count": 313,
+    "avg_experience": 1.8176470588235294,
+    "avg_education": 0.8098039215686275
+  },
+  {
+    "industry": "type_BtQkpd",
+    "job_count": 507,
+    "salary_mean": 11449.171597633136,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 11486.81130834977,
+    "company_count": 386,
+    "avg_experience": 1.5838264299802762,
+    "avg_education": 0.14003944773175542
+  },
+  {
+    "industry": "type_lIjlkP",
+    "job_count": 468,
+    "salary_mean": 8398.418803418803,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8643.254985754986,
+    "company_count": 374,
+    "avg_experience": 1.7521367521367521,
+    "avg_education": 0.9508547008547008
+  },
+  {
+    "industry": "type_fVZeOr",
+    "job_count": 450,
+    "salary_mean": 10362.333333333334,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 10546.407407407407,
+    "company_count": 280,
+    "avg_experience": 1.7022222222222223,
+    "avg_education": 1.2133333333333334
+  },
+  {
+    "industry": "type_qtmmYS",
+    "job_count": 399,
+    "salary_mean": 10603.609022556391,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 10764.010025062656,
+    "company_count": 261,
+    "avg_experience": 1.9147869674185463,
+    "avg_education": 0.7368421052631579
+  },
+  {
+    "industry": "type_hNPaoQ",
+    "job_count": 380,
+    "salary_mean": 9412.657894736842,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9653.447368421053,
+    "company_count": 316,
+    "avg_experience": 1.931578947368421,
+    "avg_education": 1.0447368421052632
+  },
+  {
+    "industry": "type_vzSaPI",
+    "job_count": 363,
+    "salary_mean": 8193.140495867769,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8291.625344352617,
+    "company_count": 288,
+    "avg_experience": 1.7630853994490359,
+    "avg_education": 0.5426997245179064
+  },
+  {
+    "industry": "type_euNhiG",
+    "job_count": 349,
+    "salary_mean": 12971.461318051575,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 13661.408787010507,
+    "company_count": 250,
+    "avg_experience": 1.9140401146131805,
+    "avg_education": 0.9140401146131805
+  },
+  {
+    "industry": "type_AhjheX",
+    "job_count": 347,
+    "salary_mean": 8678.674351585014,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8860.710854947165,
+    "company_count": 268,
+    "avg_experience": 1.9913544668587897,
+    "avg_education": 0.579250720461095
+  },
+  {
+    "industry": "type_GNLkvm",
+    "job_count": 347,
+    "salary_mean": 7802.8530259366,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7927.8530259366,
+    "company_count": 296,
+    "avg_experience": 1.6368876080691643,
+    "avg_education": 0.6455331412103746
+  },
+  {
+    "industry": "type_SkCZro",
+    "job_count": 325,
+    "salary_mean": 8641.876923076923,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8699.953846153847,
+    "company_count": 172,
+    "avg_experience": 1.7415384615384615,
+    "avg_education": 1.5784615384615384
+  },
+  {
+    "industry": "type_hjdslw",
+    "job_count": 310,
+    "salary_mean": 12674.193548387097,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 13366.397849462366,
+    "company_count": 193,
+    "avg_experience": 1.9741935483870967,
+    "avg_education": 1.0548387096774194
+  },
+  {
+    "industry": "type_Qsuxmp",
+    "job_count": 304,
+    "salary_mean": 10384.802631578947,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 10625.61951754386,
+    "company_count": 242,
+    "avg_experience": 1.6282894736842106,
+    "avg_education": 0.5822368421052632
+  },
+  {
+    "industry": "type_WoMhkt",
+    "job_count": 303,
+    "salary_mean": 14078.415841584158,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 15695.027502750274,
+    "company_count": 194,
+    "avg_experience": 1.9075907590759076,
+    "avg_education": 0.735973597359736
+  },
+  {
+    "industry": "type_oaLAkP",
+    "job_count": 282,
+    "salary_mean": 8912.411347517731,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8955.260047281325,
+    "company_count": 254,
+    "avg_experience": 1.5602836879432624,
+    "avg_education": 0.03546099290780142
+  },
+  {
+    "industry": "type_cgjjyf",
+    "job_count": 262,
+    "salary_mean": 11008.587786259543,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 11335.71882951654,
+    "company_count": 152,
+    "avg_experience": 2.0572519083969465,
+    "avg_education": 1.1374045801526718
+  },
+  {
+    "industry": "type_EguSJg",
+    "job_count": 262,
+    "salary_mean": 9978.282442748092,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10241.959287531807,
+    "company_count": 199,
+    "avg_experience": 1.8587786259541985,
+    "avg_education": 0.9274809160305344
+  },
+  {
+    "industry": "type_tFSEPv",
+    "job_count": 260,
+    "salary_mean": 6494.423076923077,
+    "salary_median": 5500.0,
+    "annual_salary_mean": 6501.3141025641025,
+    "company_count": 241,
+    "avg_experience": 1.7461538461538462,
+    "avg_education": -0.12692307692307692
+  },
+  {
+    "industry": "type_CkxARz",
+    "job_count": 251,
+    "salary_mean": 14490.03984063745,
+    "salary_median": 12500.0,
+    "annual_salary_mean": 15479.913678618857,
+    "company_count": 132,
+    "avg_experience": 2.3306772908366535,
+    "avg_education": 1.4701195219123506
+  },
+  {
+    "industry": "type_bLteBD",
+    "job_count": 249,
+    "salary_mean": 7887.269076305221,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 7968.76171352075,
+    "company_count": 231,
+    "avg_experience": 1.4819277108433735,
+    "avg_education": 0.5100401606425703
+  },
+  {
+    "industry": "type_yydJdA",
+    "job_count": 240,
+    "salary_mean": 13666.916666666666,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14304.416666666666,
+    "company_count": 109,
+    "avg_experience": 2.2625,
+    "avg_education": 1.3041666666666667
+  },
+  {
+    "industry": "type_yZDEvF",
+    "job_count": 235,
+    "salary_mean": 10637.021276595744,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10919.468085106382,
+    "company_count": 128,
+    "avg_experience": 1.876595744680851,
+    "avg_education": 0.8042553191489362
+  },
+  {
+    "industry": "type_QZOppi",
+    "job_count": 228,
+    "salary_mean": 10101.491228070176,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 10590.526315789473,
+    "company_count": 177,
+    "avg_experience": 1.4649122807017543,
+    "avg_education": 0.881578947368421
+  },
+  {
+    "industry": "type_dsOEak",
+    "job_count": 225,
+    "salary_mean": 7097.2444444444445,
+    "salary_median": 6000.0,
+    "annual_salary_mean": 7167.614814814814,
+    "company_count": 192,
+    "avg_experience": 1.551111111111111,
+    "avg_education": 0.4488888888888889
+  },
+  {
+    "industry": "type_wEOEft",
+    "job_count": 216,
+    "salary_mean": 10027.546296296296,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 10044.135802469136,
+    "company_count": 157,
+    "avg_experience": 1.8194444444444444,
+    "avg_education": 0.06944444444444445
+  },
+  {
+    "industry": "type_kCYTOy",
+    "job_count": 197,
+    "salary_mean": 14184.162436548224,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 16185.85448392555,
+    "company_count": 97,
+    "avg_experience": 2.020304568527919,
+    "avg_education": 1.0406091370558375
+  },
+  {
+    "industry": "type_VBUKIy",
+    "job_count": 188,
+    "salary_mean": 6899.308510638298,
+    "salary_median": 5500.0,
+    "annual_salary_mean": 6930.115248226951,
+    "company_count": 151,
+    "avg_experience": 1.4946808510638299,
+    "avg_education": 0.026595744680851064
+  },
+  {
+    "industry": "type_SZBUrQ",
+    "job_count": 171,
+    "salary_mean": 9430.116959064328,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9681.578947368422,
+    "company_count": 99,
+    "avg_experience": 1.8011695906432748,
+    "avg_education": 0.9532163742690059
+  },
+  {
+    "industry": "type_BFBWru",
+    "job_count": 163,
+    "salary_mean": 8738.159509202455,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8814.335378323109,
+    "company_count": 132,
+    "avg_experience": 1.6012269938650308,
+    "avg_education": 0.5153374233128835
+  },
+  {
+    "industry": "type_NUgLOO",
+    "job_count": 152,
+    "salary_mean": 8863.552631578947,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 8969.912280701756,
+    "company_count": 103,
+    "avg_experience": 1.9736842105263157,
+    "avg_education": 1.105263157894737
+  },
+  {
+    "industry": "type_XiYUxk",
+    "job_count": 151,
+    "salary_mean": 8350.794701986755,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 8378.664459161148,
+    "company_count": 87,
+    "avg_experience": 1.8675496688741722,
+    "avg_education": 0.013245033112582781
+  },
+  {
+    "industry": "type_NqSxHM",
+    "job_count": 148,
+    "salary_mean": 8748.783783783783,
+    "salary_median": 8250.0,
+    "annual_salary_mean": 8923.614864864865,
+    "company_count": 94,
+    "avg_experience": 2.2432432432432434,
+    "avg_education": 1.0337837837837838
+  },
+  {
+    "industry": "type_btoDfW",
+    "job_count": 145,
+    "salary_mean": 9344.827586206897,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 9410.919540229885,
+    "company_count": 126,
+    "avg_experience": 1.8827586206896552,
+    "avg_education": 0.8827586206896552
+  },
+  {
+    "industry": "type_PnQIgn",
+    "job_count": 140,
+    "salary_mean": 14179.92857142857,
+    "salary_median": 11500.0,
+    "annual_salary_mean": 14965.04761904762,
+    "company_count": 109,
+    "avg_experience": 2.0642857142857145,
+    "avg_education": 1.2428571428571429
+  },
+  {
+    "industry": "type_KGWlNJ",
+    "job_count": 138,
+    "salary_mean": 10895.579710144928,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 10900.410628019325,
+    "company_count": 103,
+    "avg_experience": 1.6521739130434783,
+    "avg_education": 0.2608695652173913
+  },
+  {
+    "industry": "type_TrLkYZ",
+    "job_count": 129,
+    "salary_mean": 6153.488372093023,
+    "salary_median": 6000.0,
+    "annual_salary_mean": 6164.4702842377255,
+    "company_count": 119,
+    "avg_experience": 1.7286821705426356,
+    "avg_education": 0.023255813953488372
+  },
+  {
+    "industry": "type_cKPiRk",
+    "job_count": 125,
+    "salary_mean": 8940.64,
+    "salary_median": 9000.0,
+    "annual_salary_mean": 8954.973333333333,
+    "company_count": 88,
+    "avg_experience": 1.752,
+    "avg_education": 0.016
+  },
+  {
+    "industry": "type_cXHODn",
+    "job_count": 116,
+    "salary_mean": 8288.793103448275,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8399.425287356322,
+    "company_count": 86,
+    "avg_experience": 1.853448275862069,
+    "avg_education": 0.5603448275862069
+  },
+  {
+    "industry": "type_gjAfBT",
+    "job_count": 109,
+    "salary_mean": 10118.990825688074,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 10203.853211009175,
+    "company_count": 87,
+    "avg_experience": 1.7798165137614679,
+    "avg_education": 0.25688073394495414
+  },
+  {
+    "industry": "type_tjGjDL",
+    "job_count": 109,
+    "salary_mean": 11981.651376146789,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 12548.929663608562,
+    "company_count": 64,
+    "avg_experience": 2.018348623853211,
+    "avg_education": 1.110091743119266
+  },
+  {
+    "industry": "type_eUeSgv",
+    "job_count": 103,
+    "salary_mean": 7716.310679611651,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 7967.52427184466,
+    "company_count": 53,
+    "avg_experience": 1.7475728155339805,
+    "avg_education": 0.5145631067961165
+  },
+  {
+    "industry": "type_lYBMVZ",
+    "job_count": 102,
+    "salary_mean": 10679.117647058823,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 10731.813725490196,
+    "company_count": 84,
+    "avg_experience": 1.3725490196078431,
+    "avg_education": 0.7450980392156863
+  },
+  {
+    "industry": "type_lKGeKN",
+    "job_count": 102,
+    "salary_mean": 10365.490196078432,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 10380.196078431372,
+    "company_count": 96,
+    "avg_experience": 1.5490196078431373,
+    "avg_education": 0.09803921568627451
+  },
+  {
+    "industry": "type_vLcQvm",
+    "job_count": 100,
+    "salary_mean": 10260.0,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 10789.583333333332,
+    "company_count": 64,
+    "avg_experience": 2.03,
+    "avg_education": 1.07
+  },
+  {
+    "industry": "type_dZRlFC",
+    "job_count": 96,
+    "salary_mean": 13420.3125,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14145.572916666666,
+    "company_count": 70,
+    "avg_experience": 1.9895833333333333,
+    "avg_education": 1.2708333333333333
+  },
+  {
+    "industry": "type_sIBWvi",
+    "job_count": 95,
+    "salary_mean": 8547.368421052632,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8682.017543859649,
+    "company_count": 71,
+    "avg_experience": 1.9578947368421054,
+    "avg_education": 0.8
+  },
+  {
+    "industry": "type_IFmZvL",
+    "job_count": 90,
+    "salary_mean": 8952.888888888889,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 9233.444444444445,
+    "company_count": 74,
+    "avg_experience": 1.5888888888888888,
+    "avg_education": 0.9
+  },
+  {
+    "industry": "type_nQwYnp",
+    "job_count": 79,
+    "salary_mean": 11560.759493670887,
+    "salary_median": 9500.0,
+    "annual_salary_mean": 12133.016877637132,
+    "company_count": 61,
+    "avg_experience": 2.1139240506329116,
+    "avg_education": 0.6455696202531646
+  },
+  {
+    "industry": "type_JzQWyM",
+    "job_count": 76,
+    "salary_mean": 8458.421052631578,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8530.78947368421,
+    "company_count": 68,
+    "avg_experience": 1.4078947368421053,
+    "avg_education": 0.5
+  },
+  {
+    "industry": "type_tQUfOq",
+    "job_count": 70,
+    "salary_mean": 14078.57142857143,
+    "salary_median": 10500.0,
+    "annual_salary_mean": 14598.214285714286,
+    "company_count": 51,
+    "avg_experience": 1.7714285714285714,
+    "avg_education": 0.6285714285714286
+  },
+  {
+    "industry": "type_wedisU",
+    "job_count": 68,
+    "salary_mean": 10022.058823529413,
+    "salary_median": 8750.0,
+    "annual_salary_mean": 10053.308823529413,
+    "company_count": 61,
+    "avg_experience": 1.588235294117647,
+    "avg_education": 0.5147058823529411
+  },
+  {
+    "industry": "type_lOOuyw",
+    "job_count": 44,
+    "salary_mean": 11431.818181818182,
+    "salary_median": 9250.0,
+    "annual_salary_mean": 11806.818181818182,
+    "company_count": 25,
+    "avg_experience": 2.2954545454545454,
+    "avg_education": 0.8636363636363636
+  },
+  {
+    "industry": "type_vQQLek",
+    "job_count": 42,
+    "salary_mean": 11670.47619047619,
+    "salary_median": 8500.0,
+    "annual_salary_mean": 12432.380952380952,
+    "company_count": 16,
+    "avg_experience": 1.8095238095238095,
+    "avg_education": 0.9285714285714286
+  },
+  {
+    "industry": "type_WHjRBO",
+    "job_count": 40,
+    "salary_mean": 10845.75,
+    "salary_median": 10000.0,
+    "annual_salary_mean": 11004.083333333332,
+    "company_count": 31,
+    "avg_experience": 1.85,
+    "avg_education": 1.275
+  },
+  {
+    "industry": "type_ZjNQpn",
+    "job_count": 32,
+    "salary_mean": 8140.625,
+    "salary_median": 7500.0,
+    "annual_salary_mean": 8248.697916666666,
+    "company_count": 27,
+    "avg_experience": 1.71875,
+    "avg_education": 0.71875
+  },
+  {
+    "industry": "type_MpUmNW",
+    "job_count": 30,
+    "salary_mean": 19766.666666666668,
+    "salary_median": 12500.0,
+    "annual_salary_mean": 20238.888888888887,
+    "company_count": 22,
+    "avg_experience": 2.433333333333333,
+    "avg_education": 1.0666666666666667
+  },
+  {
+    "industry": "type_oSChwS",
+    "job_count": 23,
+    "salary_mean": 14826.08695652174,
+    "salary_median": 12500.0,
+    "annual_salary_mean": 15804.347826086956,
+    "company_count": 12,
+    "avg_experience": 2.260869565217391,
+    "avg_education": 0.9565217391304348
+  },
+  {
+    "industry": "type_CiMmHM",
+    "job_count": 12,
+    "salary_mean": 8458.333333333334,
+    "salary_median": 7000.0,
+    "annual_salary_mean": 8517.361111111111,
+    "company_count": 10,
+    "avg_experience": 2.3333333333333335,
+    "avg_education": 0.25
+  },
+  {
+    "industry": "type_ylOZvC",
+    "job_count": 9,
+    "salary_mean": 10256.666666666666,
+    "salary_median": 6500.0,
+    "annual_salary_mean": 10562.222222222223,
+    "company_count": 6,
+    "avg_experience": 1.5555555555555556,
+    "avg_education": 1.1111111111111112
+  },
+  {
+    "industry": "type_PeStkD",
+    "job_count": 8,
+    "salary_mean": 8500.0,
+    "salary_median": 8750.0,
+    "annual_salary_mean": 8593.75,
+    "company_count": 4,
+    "avg_experience": 0.75,
+    "avg_education": 1.625
+  },
+  {
+    "industry": "type_IkixkP",
+    "job_count": 4,
+    "salary_mean": 9125.0,
+    "salary_median": 8750.0,
+    "annual_salary_mean": 9125.0,
+    "company_count": 4,
+    "avg_experience": 1.75,
+    "avg_education": 1.25
+  },
+  {
+    "industry": "type_ISPdob",
+    "job_count": 3,
+    "salary_mean": 8000.0,
+    "salary_median": 8000.0,
+    "annual_salary_mean": 8291.666666666666,
+    "company_count": 3,
+    "avg_experience": 2.3333333333333335,
+    "avg_education": 0.0
+  }
+]
