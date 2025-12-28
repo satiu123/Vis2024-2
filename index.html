@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Wanted 可视化实验台 - D3 + ECharts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./src/css/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+</head>
+<body>
+  <div class="top-actions">
+    <div class="title-block">
+      <p class="eyebrow">D3 + ECharts · ChinaVis 2024 赛题 2</p>
+      <h1>Job Wanted 招聘市场画像</h1>
+      <p class="lede">基于赛题数据的交互式可视化实验台：支持省份/经验/学历/薪酬模式筛选，提供薪酬分布、经验学历热力、企业画像与薪酬结构洞察。</p>
+    </div>
+    <div class="hero-actions">
+      <button id="reset-btn" class="ghost">重置筛选</button>
+      <button id="export-btn">导出当前截屏</button>
+    </div>
+  </div>
+
+  <section class="controls">
+    <div class="control-block">
+      <label for="province-select">省份</label>
+      <select id="province-select">
+        <option value="all">全部</option>
+      </select>
+    </div>
+    <div class="control-block">
+      <label for="experience-select">经验要求</label>
+      <select id="experience-select">
+        <option value="all">全部</option>
+      </select>
+    </div>
+    <div class="control-block">
+      <label for="education-select">学历要求</label>
+      <select id="education-select">
+        <option value="all">全部</option>
+      </select>
+    </div>
+    <div class="control-block">
+      <label for="salary-type-select">薪酬模式</label>
+      <select id="salary-type-select">
+        <option value="all">全部</option>
+      </select>
+    </div>
+    <div class="control-block">
+      <label>用工方式</label>
+      <div class="toggle-group" id="workmode-toggle">
+        <button data-mode="all" class="active">全部</button>
+        <button data-mode="fixed">固定</button>
+        <button data-mode="flex">灵活</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats" id="stats"></section>
+
+  <section class="grid">
+    <div class="card wide">
+      <div class="card-head">
+        <h3>薪酬分布与区间选择（D3 直方图 + Brush）</h3>
+        <p class="muted" id="salary-range-label"></p>
+      </div>
+      <div id="salary-histogram" class="viz"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h3>省份工作量与均薪</h3>
+        <p class="muted">柱形表示岗位数，折线表示平均年薪</p>
+      </div>
+      <div id="province-chart" class="viz"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h3>经验 × 学历 薪酬热力</h3>
+        <p class="muted">颜色代表均值（年薪）</p>
+      </div>
+      <div id="heatmap" class="viz"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h3>薪酬模式占比</h3>
+        <p class="muted">按薪酬类型聚合</p>
+      </div>
+      <div id="salary-type-chart" class="viz"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h3>行业类别 Top 15</h3>
+        <p class="muted">岗位数与均薪</p>
+      </div>
+      <div id="company-chart" class="viz"></div>
+    </div>
+  </section>
+
+  <section class="insights">
+    <h3>自动洞察</h3>
+    <div id="insight-log" class="insight-log"></div>
+    <h4>新兴 / 急需职位提示</h4>
+    <div id="emerging-log" class="insight-log"></div>
+  </section>
+
+  <script src="./src/js/app.js"></script>
+</body>
+</html>
